@@ -1,6 +1,6 @@
 # Andrew NG's Machine learning Coursera
 
-[!["Powered by Jupyter"](./powered_by_logo.png)](https://jupyter.org/)
+[!["Powered by Jupyter"](images/powered_by_logo.png)](https://jupyter.org/)
 
 The repository contains solutions created for Andrew NG's Coursera Machine Learning course. It is subject to changes as the author sees fit.
 The repository's structure is simple, the `main` repository containing the notebooks, and the `data` folder encompassing the support files - data.
@@ -23,14 +23,14 @@ The repository contains solutions for the exercises listed below.
 | 7 | k-Means and PCA | [Exercise 7.ipynb][PlEx7] |
 | 8 | Anomaly Detection & Recommender Systems | [Exercise 8.ipynb][PlEx8] |
 
-
+Disclaimer: The first two exercises - visualisation - were heavily based on external resources.
 [//]: # 
 
-   [PlEx1]: <./Exercise_1.ipynb>
-   [PlEx2]: <./Exercise_2.ipynb>
-   [PlEx3]: <./Exercise_3.ipynb>
-   [PlEx4]: <./Exercise_4.ipynb>
-   [PlEx5]: <./Exercise_5.ipynb>
-   [PlEx6]: <./Exercise_6.ipynb>
-   [PlEx7]: <./Exercise_7.ipynb>
-   [PlEx8]: <./Exercise_8.ipynb>
+   [PlEx1]: <Exercise_1.ipynb>
+   [PlEx2]: <Exercise_2.ipynb>
+   [PlEx3]: <Exercise_3.ipynb>
+   [PlEx4]: <Exercise_4.ipynb>
+   [PlEx5]: <Exercise_5.ipynb>
+   [PlEx6]: <Exercise_6.ipynb>
+   [PlEx7]: <Exercise_7.ipynb>
+   [PlEx8]: <Exercise_8.ipynb>
